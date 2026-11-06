@@ -1,0 +1,14 @@
+jupyter
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+scikit-image
+opencv-python
+imageio
+librosa
+requests
+torch
+torchvision
+tensorflow
